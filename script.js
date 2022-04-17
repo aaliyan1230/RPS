@@ -49,5 +49,5 @@ let game = ()=>{
         console.log(result);
     }
 }
-
+//no ui attatched currently
 game();
